@@ -1,4 +1,4 @@
-baseURL = "https://github.com/omarmorejon/static_website_e_commerce.git"
+baseURL = "https://omarmorejon.github.io/static_website_e_commerce"
 languageCode = "en-us"
 title = "My New Hugo Site"
 publishDir = "docs"
